@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestSharing</string>
+    <string name="share">Share</string>
+    <string name="save_screen_shot">Save screenshot</string>
+    <string name="share_image_amp_url"><![CDATA[Share image & URL]]></string>
+    <string name="share_image_only">Share image Only</string>
+    <string name="share_text_only">Share text Only</string>
+</resources>
